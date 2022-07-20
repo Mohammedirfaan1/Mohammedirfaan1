@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohammed Irfaan
-- 👀 I’m interested in Devops tools
-- 🌱 I’m currently learning Devops 
-- 💞️ I’m looking to collaborate
+- 👀 I’m interested in Devops roles
+- 🌱 I’m currently learning Devops tools and process
+- 💞️ I’m looking to collaborate with different software developers
 - 📫 How to reach me ...
 
 <!---
