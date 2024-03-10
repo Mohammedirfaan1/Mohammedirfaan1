@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohammed Irfaan
-- 👀 I’m interested in Devops 
-- 🌱 I’m currently learning Devops tools and process
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently interested in learning new technologies.
 - 💞️ I’m looking to collaborate with different software developers
 - 📫 How to reach me ...
 
